@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/2/static/css/main.e6c13ad2.css",
+    "main.js": "/2/static/js/main.f5dec227.js",
+    "static/media/obese.png": "/2/static/media/obese.539caf6bed7d2efd1329.png",
+    "static/media/underweight.png": "/2/static/media/underweight.f2ebf78b31d8cc592fa4.png",
+    "static/media/overweight.png": "/2/static/media/overweight.380f2070d4b7b8322c5b.png",
+    "static/media/optimalweight.png": "/2/static/media/optimalweight.fe1ba4280d9a6686133b.png",
+    "index.html": "/2/index.html",
+    "main.e6c13ad2.css.map": "/2/static/css/main.e6c13ad2.css.map",
+    "main.f5dec227.js.map": "/2/static/js/main.f5dec227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f5dec227.js"
+  ]
+}
